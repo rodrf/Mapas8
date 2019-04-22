@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mapas8</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="take_me_there">Take me there</string>
+</resources>

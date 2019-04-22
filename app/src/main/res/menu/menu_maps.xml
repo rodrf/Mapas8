@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:title="Normal"
+            app:showAsAction="never"
+            android:id="@+id/action_nromal"/>
+    <item
+            android:title="Hybrid"
+            app:showAsAction="never"
+            android:id="@+id/action_hibrid"/>
+    <item
+            android:title="Terrain"
+            app:showAsAction="never"
+            android:id="@+id/action_terrain"/>
+    <item
+            android:title="None"
+            app:showAsAction="never"
+            android:id="@+id/action_none"/>
+    <item
+            android:title="Buscar"
+            app:showAsAction="never"
+            android:id="@+id/action_search"/>
+</menu>
